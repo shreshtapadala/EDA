@@ -14,7 +14,7 @@ Purpose of EDA:
 
 About the DataSet:
 
-The sinking of the Titanic is onr of the most infamous shipwreks in history. The Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This is a titanic dataset and we study and explore the features related to the survival of the passengers.
+The sinking of the Titanic is one of the most infamous shipwreks in history. The Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This is a titanic dataset. Here we study and explore the features related to the survival of the passengers.
 
 Exploratory Data Analysis (EDA) Using Python Libraries :
 
